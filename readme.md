@@ -1,1 +1,1 @@
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sami.alashabi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sami.alashabi/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://medium.com/@sami.alashabi/unlocking-real-time-data-synchronisation-a-guide-to-change-data-capture-cdc-with-kafka-and-356c0ba083b7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sami.alashabi/0" alt="Recent Article 0"> 
